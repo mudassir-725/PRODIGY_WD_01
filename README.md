@@ -43,4 +43,4 @@ The Web Solutions Hub project demonstrates a responsive and interactive navigati
 You can view a live demo of the project here. [https://mudassir-725.github.io/WEBSOLUTIONHUB]
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License.**
