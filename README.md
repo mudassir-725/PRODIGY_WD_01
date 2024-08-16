@@ -1,4 +1,4 @@
-# Web Solutions Hub
+# WEBSOLUTIONHUB
 A responsive and interactive navigation menu for the Web Solutions Hub website that changes color on scroll and hover. Built using HTML, CSS, and JavaScript to enhance user experience with smooth transitions and dynamic effects.
 
 ## Project Overview
@@ -17,7 +17,7 @@ The Web Solutions Hub project demonstrates a responsive and interactive navigati
 - **JavaScript:** For adding interactivity, including changing the background color on scroll and hover effects.
 
 ## Folder Structure
-##### websolutionshub/
+##### WEBSOLUTIONHUB/
 ###### │
 ###### ├── index.html              
 ###### ├── css/
@@ -35,12 +35,12 @@ The Web Solutions Hub project demonstrates a responsive and interactive navigati
 
 
 ## Installation & Usage
-1. Clone the repository: `git clone https://github.com/mudassir-725/websolutionshub.git`
-2. Navigate to the project directory: `cd websolutionshub`
+1. Clone the repository: `git clone https://github.com/mudassir-725/WEBSOLUTIONHUB.git`
+2. Navigate to the project directory: `cd WEBSOLUTIONHUB`
 3. Open the `index.html` file in your preferred web browser.
 
-## Demo
-You can view a live demo of the project here. []
+## Live Demo
+You can view a live demo of the project here. [https://mudassir-725.github.io/WEBSOLUTIONHUB]
 
 ## License
 This project is licensed under the MIT License.
