@@ -1,0 +1,14 @@
+web-solutions-hub/
+│
+├── index.html               # Main HTML file for the project
+├── css/
+│   └── styles.css           # Stylesheet for styling the navigation menu and page
+├── js/
+│   └── script.js            # JavaScript file for adding interactivity
+├── images/
+│   └── svg/                 # Folder for SVG icons used in the footer
+│       ├── facebook.svg
+│       ├── twitter.svg
+│       ├── linkedin.svg
+│       └── instagram.svg
+└── README.md                # Project documentation file
